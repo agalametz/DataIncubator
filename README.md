@@ -46,7 +46,8 @@ Depending on the time available and technical challenges encountered during the 
 - Is there a difference in tweets and RT behaviors towards scientific articles in US and Europe?
 - How long is the impact of an scientific article in time on the Twittersphere etc.
 
-- Example of feasibility:
+Example of feasibility:
+
 In order to show the feasibility of the project, I started to retrieve tweets using the tweepy python library for accessing the Twitter API. The tweets were collected based on a search of a pairs of keywords of interest for our analysis i.e. the name of one of six mainstream media outlets: CNN, BBC, FoxNews, CNBC, MSNBC & HBO's "Last Week Tonight" (the last being reknown for their extended piece of investigating journalism that could trigger large amount of comments) and one of the following science-related keywords: 'climate change','vaccines' and 'science'. 
 
 We will extend the database to tweets mentioning the writing press i.e. "The New York Times" and additional keywords. The standard Twitter API only limits the search in the database to the last 7 days so the first exploratory exercises here are conducted on a limited number of tweets. I opened a number of streaming requests to collect tweets as they come in the coming couple of months. The statistics will greatly improved as the tweets come.
